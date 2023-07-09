@@ -1,4 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ichantzaras&show_icons=true&count_private=true)
+<img src="octocat-1688921223625.png" alt="alt text" width="180" height="180">
+
+<!-- ![alt text](octocat-1688921223625.png) -->
 <!--
 **ichantzaras/ichantzaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
